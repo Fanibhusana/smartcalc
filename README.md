@@ -1,10 +1,9 @@
 # 🔢 SmartCalc – A React-Based Calculator  
 
 SmartCalc is a simple, stylish, and responsive calculator built using **React.js**. It performs basic arithmetic operations and dynamically resizes the display area to accommodate large numbers.
-
-![SmartCalc Screenshot](https://your-image-url.com)  
-*(Replace with an actual screenshot of your calculator.)*  
-
+<p align="center">
+     <img src="https://github.com/user-attachments/assets/93548722-69d4-4c34-9bf4-d0c5b37b0ce7" alt="SmartCalc Screenshot" width="400" height="500">
+</p>
 ## 🚀 Live Demo  
 👉 https://smartcalc-fanibhusanas-projects.vercel.app/  
 
