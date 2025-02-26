@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# 🔢 SmartCalc – A React-Based Calculator  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+SmartCalc is a simple, stylish, and responsive calculator built using **React.js**. It performs basic arithmetic operations and dynamically resizes the display area to accommodate large numbers.
 
-## Available Scripts
+![SmartCalc Screenshot](https://your-image-url.com)  
+*(Replace with an actual screenshot of your calculator.)*  
 
-In the project directory, you can run:
+## 🚀 Live Demo  
+👉 https://smartcalc-fanibhusanas-projects.vercel.app/  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Features  
+✅ **Basic Arithmetic Operations** – Addition, Subtraction, Multiplication, Division, Modulus  
+✅ **Dynamic Display** – Adjusts to large numbers without cutting off text  
+✅ **Clear & Backspace** – AC (All Clear) and CE (Clear Entry) functions  
+✅ **Responsive UI** – Works on both mobile & desktop screens  
+✅ **Deployed on Vercel** – Instantly accessible online  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📂 Installation  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/Fanibhusana/smartcalc.git
+cd smartcalc
+```
 
-### `npm run build`
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3️⃣ Run the App
+```sh
+npm start
+```
+SmartCalc will open in your browser at http://localhost:3000/.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🌎 Deployment
+SmartCalc is deployed using Vercel. To redeploy your changes:
 
-### `npm run eject`
+```sh
+git add .
+git commit -m "Updated styles"
+git push origin main
+```
+Vercel will automatically update your live app.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 👨‍💻 Technologies Used
+- **React.js** – Frontend framework
+- **CSS (Flexbox & Grid)** – Layout & styling
+- **Vercel** – Deployment platform
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🏆 Contributing
+Want to improve SmartCalc? Fork the repository and submit a pull request!
 
-## Learn More
+1. **Fork this repo**
+2. **Create a new branch:**
+    ```sh
+    git checkout -b feature-branch
+    ```
+3. **Commit your changes:**
+    ```sh
+    git commit -m "Added new feature"
+    ```
+4. **Push to GitHub:**
+    ```sh
+    git push origin feature-branch
+    ```
+5. **Open a Pull Request**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📜 License
+This project is open-source under the MIT License.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+⭐ If you like this project, don't forget to give it a star! ⭐
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
